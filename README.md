@@ -16,9 +16,9 @@
 
 Befolge diese Schritte, um das Tool herunterzuladen und zu starten:
 
-```bash
+
 # 1. Repository klonen
-git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
+git clone https://github.com/Lorik1409/OSINT.git
 
 # 2. In das Projektverzeichnis wechseln
 cd OSINT
@@ -40,7 +40,7 @@ python main.py
 Follow these steps to download and start the tool:
 
 # 1. Clone the repository
-git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
+git clone https://github.com/Lorik1409/OSINT.git
 
 # 2. Navigate to the project directory
 cd OSINT
@@ -63,7 +63,7 @@ python main.py
 Suivez ces étapes pour télécharger et lancer l'outil :
 
 # 1. Cloner le dépôt
-git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
+git clone https://github.com/Lorik1409/OSINT.git
 
 # 2. Accéder au répertoire du projet
 cd OSINT
@@ -86,7 +86,7 @@ python main.py
 Sigue estos pasos para descargar e iniciar la herramienta:
 
 # 1. Clonar el repositorio
-git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
+git clone https://github.com/Lorik1409/OSINT.git
 
 # 2. Cambiar al directorio del proyecto
 cd OSINT
