@@ -16,22 +16,18 @@
 
 Befolge diese Schritte, um das Tool herunterzuladen und zu starten:
 
-1. **Repository klonen**
+```bash
+# 1. Repository klonen
+git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
 
-   $ git clone https://github.com/Lorik1409/OSINT.git
+# 2. In das Projektverzeichnis wechseln
+cd OSINT
 
-2. **In das Projektverzeichnis wechseln**
+# 3. Abhängigkeiten installieren
+pip install -r requirements.txt
 
-   $ cd OSINT
-
-3. **Abhängigkeiten installieren**
-
-   $ pip install -r requirements.txt
-
-4. **Tool starten**
-
-   $ python main.py
-
+# 4. Tool starten
+python main.py
 
 ---
 
@@ -43,21 +39,17 @@ Befolge diese Schritte, um das Tool herunterzuladen und zu starten:
 
 Follow these steps to download and start the tool:
 
-1. **Clone the repository**
+# 1. Clone the repository
+git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
 
-   $ git clone https://github.com/Lorik1409/OSINT.git
+# 2. Navigate to the project directory
+cd OSINT
 
-2. **Navigate to the project directory**
+# 3. Install dependencies
+pip install -r requirements.txt
 
-   $ cd OSINT
-
-3. **Install dependencies**
-
-   $ pip install -r requirements.txt
-
-4. **Launch the tool**
-
-   $ python main.py
+# 4. Launch the tool
+python main.py
 
 
 ---
@@ -70,21 +62,17 @@ Follow these steps to download and start the tool:
 
 Suivez ces étapes pour télécharger et lancer l'outil :
 
-1. **Cloner le dépôt**
+# 1. Cloner le dépôt
+git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
 
-   $ git clone https://github.com/Lorik1409/OSINT.git
+# 2. Accéder au répertoire du projet
+cd OSINT
 
-2. **Accéder au répertoire du projet**
+# 3. Installer les dépendances
+pip install -r requirements.txt
 
-   $ cd OSINT
-
-3. **Installer les dépendances**
-
-   $ pip install -r requirements.txt
-
-4. **Lancer l'outil**
-
-   $ python main.py
+# 4. Lancer l'outil
+python main.py
 
 
 ---
@@ -97,21 +85,17 @@ Suivez ces étapes pour télécharger et lancer l'outil :
 
 Sigue estos pasos para descargar e iniciar la herramienta:
 
-1. **Clonar el repositorio**
+# 1. Clonar el repositorio
+git clone [https://github.com/Lorik1409/OSINT.git](https://github.com/Lorik1409/OSINT.git)
 
-   $ git clone https://github.com/Lorik1409/OSINT.git
+# 2. Cambiar al directorio del proyecto
+cd OSINT
 
-2. **Cambiar al directorio del proyecto**
+# 3. Instalar dependencias
+pip install -r requirements.txt
 
-   $ cd OSINT
-
-3. **Instalar dependencias**
-
-   $ pip install -r requirements.txt
-
-4. **Ejecutar la herramienta**
-
-   $ python main.py
+# 4. Ejecutar la herramienta
+python main.py
 
 
 
